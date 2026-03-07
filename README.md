@@ -1,5 +1,5 @@
 <p align="center">
-✦　　　. And so darkness descends. ⟢
+✦　⭑　. And so darkness descends.　　๋࣭ ⭑　 ⟢
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=voidstarcrown&label=stars&color=202020" alt="visitor counter">
 </p>

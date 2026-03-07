@@ -1,6 +1,6 @@
 <p align="center">
 And so darkness descends.
 <p align="center">
-  <img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/840a7240-9985-46a6-bf69-e34df1554e1f" />
+  <img width="1200" height="729" alt="image" src="https://github.com/user-attachments/assets/53aba1b3-1534-413a-875e-7c579f65c39e" />
 </p>
 im losing it 

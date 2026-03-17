@@ -9,3 +9,21 @@
 <p align="center">
 im losing it 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hi 
+![awwww](https://github.com/user-attachments/assets/ad716891-b419-412d-acd2-3b850f538f77)
+
+

@@ -22,8 +22,10 @@ im losing it
 
 
 
-
+<p align="center">
 Hi 
-![awwww](https://github.com/user-attachments/assets/ad716891-b419-412d-acd2-3b850f538f77)
+<p align="center">
+  ![awwww](https://github.com/user-attachments/assets/ad716891-b419-412d-acd2-3b850f538f77)
+</p>
 
 

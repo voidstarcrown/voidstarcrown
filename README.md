@@ -10,6 +10,14 @@
 im losing it 
 
 
+<p align="center">
+Hi
+<p align="center">
+  <img width="735" height="511" alt="image" src="https://github.com/user-attachments/assets/2b21f4ac-b2df-4a2e-aae4-5833b735493a" />
+</p>
+
+
+
 
 
 
